@@ -1,0 +1,13 @@
+# Next.js app ignores
+UI/node_modules/
+UI/.next/
+UI/.snowflake/
+UI/.v0-trash/
+UI/.vercel/
+UI/.env*.local
+
+# IDE/Tool ignores
+.qodo/
+.vscode/
+.DS_Store
+*.log
