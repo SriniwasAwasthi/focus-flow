@@ -153,3 +153,15 @@ Thank you for exploring FocusFlow! Engineering a robust, full-stack productivity
 <div align="center">
   <sub>Engineered for deep work and peak productivity by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
 </div>
+
+## 🏛️ System Architecture
+
+```mermaid
+graph TD
+    User["👤 User"] --> Dashboard["⚡ FocusFlow Dashboard"]
+    Dashboard --> Timer["⏱️ Pomodoro Session Controller"]
+    Dashboard --> AI["🧠 AI Daily Task Scheduler"]
+    Dashboard --> Analytics["📊 Productivity Analytics Engine"]
+    Timer --> LocalStore[("💾 LocalStorage / IndexedDB")]
+    AI --> LocalStore
+```
