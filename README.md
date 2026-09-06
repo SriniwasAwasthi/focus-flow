@@ -121,39 +121,6 @@ FocusFlow provides a structured environment to cultivate this habit. By turning 
 
 ---
 
-## 💙 Thank You for Exploring FocusFlow
-
-💙 Thank you so much for taking the time to explore FocusFlow. Whether you are a student looking to optimize your study sessions, a developer interested in the codebase, or a recruiter evaluating my work, your visit means a great deal to me. Exploring new ideas and building tools that improve daily life is a journey, and I am incredibly grateful to share it with you. 🌟
-
-🙏 Your feedback, suggestions, issue reports, discussions, and stars are highly appreciated and play an essential role in refining and growing this project. Thank you for your kindness, support, and encouragement. I sincerely hope FocusFlow brings value to your own learning and productivity journey. 🚀✨
-
----
-
-⭐ If you found this project helpful, consider giving it a star.
-
-Made with ❤️ by [Sriniwas Awasthi](https://github.com/SriniwasAwasthi)
-
----
-
----
-
-## 💖 Thank You for Inspecting FocusFlow!
-
-> *"Deep focus is where great software is born—thank you for your time!"* ⚡
-
-Thank you for exploring FocusFlow! Engineering a robust, full-stack productivity ecosystem with Pomodoro session state, smart task planning, and actionable analytics was designed to solve modern workflow fragmentation. Your review and attention are deeply valued.
-
-- 🌟 **Enjoyed the SaaS design & focus mechanics?** Please leave a star to support the project!
-- 📬 **Open for Discussion:** Have thoughts on state management, productivity algorithms, or full-stack architecture? Let's connect on [GitHub](https://github.com/SriniwasAwasthi).
-
-*Wishing you deep focus, peak productivity, and a fantastic day!* ✨
-
----
-
-<div align="center">
-  <sub>Engineered for deep work and peak productivity by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
-</div>
-
 ## 🏛️ System Architecture
 
 ```mermaid
@@ -165,3 +132,17 @@ graph TD
     Timer --> LocalStore[("💾 LocalStorage / IndexedDB")]
     AI --> LocalStore
 ```
+
+---
+
+## 💖 Thank You for Visiting & Exploring 🚀 FocusFlow!
+
+> *"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey."* 🚀
+
+* 🌟 **Enjoyed this project?** If you found this repository interesting or helpful, please consider giving it a **Star**!
+* 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com).
+
+---
+<div align="center">
+  <sub>Designed & Crafted with Passion by <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a> • Continuous Learner & Software Engineer</sub>
+</div>
